@@ -1,0 +1,50 @@
+[
+{
+"id": "1",
+"grupo": "A",
+"selecao": "México",
+"bandeira": "[https://flagcdn.com/w320/mx.png](https://www.google.com/search?q=https://flagcdn.com/w320/mx.png)"
+},
+{
+"id": "2",
+"grupo": "A",
+"selecao": "Estados Unidos",
+"bandeira": "[https://flagcdn.com/w320/us.png](https://www.google.com/search?q=https://flagcdn.com/w320/us.png)"
+},
+{
+"id": "3",
+"grupo": "B",
+"selecao": "Canadá",
+"bandeira": "[https://flagcdn.com/w320/ca.png](https://www.google.com/search?q=https://flagcdn.com/w320/ca.png)"
+},
+{
+"id": "4",
+"grupo": "B",
+"selecao": "Brasil",
+"bandeira": "[https://flagcdn.com/w320/br.png](https://flagcdn.com/w320/br.png)"
+},
+{
+"id": "5",
+"grupo": "C",
+"selecao": "Argentina",
+"bandeira": "[https://flagcdn.com/w320/ar.png](https://www.google.com/search?q=https://flagcdn.com/w320/ar.png)"
+},
+{
+"id": "6",
+"grupo": "C",
+"selecao": "França",
+"bandeira": "[https://flagcdn.com/w320/fr.png](https://www.google.com/search?q=https://flagcdn.com/w320/fr.png)"
+},
+{
+"id": "7",
+"grupo": "D",
+"selecao": "Inglaterra",
+"bandeira": "[https://flagcdn.com/w320/gb-eng.png](https://www.google.com/search?q=https://flagcdn.com/w320/gb-eng.png)"
+},
+{
+"id": "8",
+"grupo": "D",
+"selecao": "Espanha",
+"bandeira": "[https://flagcdn.com/w320/es.png](https://www.google.com/search?q=https://flagcdn.com/w320/es.png)"
+}
+]
